@@ -1,6 +1,6 @@
 # 🎓 AI/ML Student Portfolio (PWA-Enabled)
 
-Hi, I’m *Rohan Mehta*, an AI & Machine Learning student passionate about building intelligent systems and web-based applications.
+Hi, I’m *Harshal Shinde*, an AI & Machine Learning student passionate about building intelligent systems and web-based applications.
 
 This is my *personal portfolio website, built using basic HTML, CSS, and JavaScript — and fully converted into a **Progressive Web App (PWA)*. It works offline, can be installed as an app, and demonstrates my understanding of full-stack fundamentals and modern web technologies.
 
@@ -45,7 +45,7 @@ aiml-portfolio-pwa/
 
 ## 🌍 Live Website
 
-👉 [Visit Portfolio](https://yourusername.github.io/aiml-portfolio-pwa/)  
+👉 [Visit Portfolio](https://harshal5478.github.io/aiml-portfolio-pwa/)  
 (Replace with your real GitHub username after deployment)
 
 ---
@@ -64,9 +64,8 @@ I love working with:
 
 Feel free to reach out or collaborate!
 
-📧 rohan.ai.student@gmail.com  
-🌐 [LinkedIn](https://linkedin.com) (Add your link here)  
-🐙 [GitHub](https://github.com/yourusername)
+📧 shindeharshal5478@gmail.com   
+🐙 [GitHub](https://github.com/harshal5478)
 
 ---
 

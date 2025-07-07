@@ -27,8 +27,8 @@ aiml-portfolio-pwa/
 ├── manifest.json
 ├── service-worker.js
 └── AIML_Student/
-    ├── icon.png       ← 192x192 icon
-    └── image.png    ← 512x512 icon
+    ├── image1.png       ← 192x192 icon
+    └── image2.png    ← 512x512 icon
 
 ---
 
